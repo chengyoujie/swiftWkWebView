@@ -1,0 +1,1 @@
+link ../../../SDWebImage/SDWebImage/Core/SDAnimatedImagePlayer.h
